@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        re7la, hello from the other side
+        re7la, hello from the other side test
       </h1>
       <div class="links">
         <a
